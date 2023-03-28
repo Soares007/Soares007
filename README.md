@@ -4,7 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ysoares.ofc/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imSoares)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soares007&layout=compact&langs_count=7&theme=dracula)](https://github.com/Soares007/Soares007)
 [![Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Soares007&show_icons=true&theme=tokyonight)](https://github.com/Soares007/Soares007)
 
 
@@ -36,3 +35,10 @@
 - [Conversor de Medidas de Tempo](https://soares007.github.io/conversor-medidas)
 - [Calculadora IMC](https://soares007.github.io/calculadora-imc-fatec)
 - [Calculadora Simples](https://soares007.github.io/aula10-03-2023)
+<br>
+<br>
+
+## Linguagens Mais Usadas
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soares007&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/Soares007/Soares007)

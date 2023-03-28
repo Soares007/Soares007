@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ysoares.ofc/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imSoares)
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTROXZ&layout=compact&langs_count=7&theme=dracula"/>
 [![Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Soares007&show_icons=true&theme=tokyonight)](https://github.com/Soares007/Soares007)
 
 

@@ -20,13 +20,17 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div> <br>
 
-Sempre tentando evoluir 
+## Frases Motivacionais 
+
+- "As oportunidades não caem do céu, elas são construídas por <strong>você.</strong>" 
+- "Somos o que repetidamente fazemos. Portanto, a exelência não é um feito, <strong>é um hábito.</strong>
+- "As oportunidades não caem do céu, elas são construídas por <strong>você.</strong>"
 
 ## Últimos Repositórios
 - [Palindrome Number Checker](https://soares007.github.io/palindrome-number-checker)
 - [Conversor de Medidas de Tempo](https://soares007.github.io/conversor-medidas)
 - [Calculadora IMC](https://soares007.github.io/calculadora-imc-fatec)
 - [Calculadora Simples](https://soares007.github.io/aula10-03-2023)
-

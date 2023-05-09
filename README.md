@@ -8,7 +8,7 @@
 
 
 
-## Tecnologias que eu utilizo no meu dia a dia
+## Tecnologias que eu utilizo estou aprendendo
 
 <div style="display: inline_block"><br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -43,4 +43,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soares007&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/Soares007/Soares007)
 
- ![Snake animation](https://github.com//cadudevemdobro/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Soares007/Soares007/blob/output/github-contribution-grid-snake.svg)

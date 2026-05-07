@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Carlos Soares
+# 👨‍💻 Carlos Eduardo
 
 ### Desenvolvedor Full Stack • Django • Node.js • Python
 

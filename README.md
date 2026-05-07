@@ -1,42 +1,118 @@
+<div align="center">
 
-### Olá eu sou o Carlos Eduardo 👋
+# 👨‍💻 Carlos Soares
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ysoares.ofc/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imSoares)
+### Desenvolvedor Full Stack • React Native • Node.js • Python
 
-[![Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Soares007&show_icons=true&theme=tokyonight)](https://github.com/Soares007/Soares007)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Transformando+ideias+em+código...;Criando+projetos+modernos+e+funcionais;Backend+%2B+Frontend+%2B+Automação;Sempre+aprendendo+algo+novo+🚀" />
 
+</div>
 
+---
 
-## Tecnologias que estou aprendendo
+# 🚀 Sobre mim
 
-<div style="display: inline_block"><br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div> <br>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Desenvolvedor focado em aplicações modernas e automações  
+📱 Experiência com aplicações em **React Native Expo**  
+🛠️ Desenvolvimento de APIs usando **Node.js + Sequelize + MySQL**  
+🤖 Criador de bots e sistemas automatizados para Discord  
+🎮 Interesse em tecnologia, games, IA e interfaces modernas estilo gamer/anime  
+📚 Pesquisando aplicações de Jogos e NFTs em Sistemas de Informação  
 
-## Frases Motivacionais 
+---
 
-- "As oportunidades não caem do céu, elas são construídas por <strong>você.</strong>" 
-- "Somos o que repetidamente fazemos. Portanto, a exelência não é um feito, <strong>é um hábito.</strong>
-- "As oportunidades não caem do céu, elas são construídas por <strong>você.</strong>"
+# 🧠 Tecnologias & Ferramentas
 
-## Últimos Repositórios
-- [Palindrome Number Checker](https://soares007.github.io/palindrome-number-checker)
-- [Conversor de Medidas de Tempo](https://soares007.github.io/conversor-medidas)
-- [Calculadora IMC](https://soares007.github.io/calculadora-imc-fatec)
-- [Calculadora Simples](https://soares007.github.io/aula10-03-2023)
-<br>
-<br>
+<div align="center">
 
-## Linguagens Mais Usadas
-<br>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,mysql,sequelize,git,github,vscode,figma,html,css" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soares007&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/Soares007/Soares007)
+</div>
 
- ![Snake animation](https://github.com/Soares007/Soares007/blob/output/github-contribution-grid-snake.svg)
+---
+
+# 📌 Atualmente estudando
+
+- 🔐 Cibersegurança
+- ⚡ Arquitetura Backend
+- 🤖 Inteligência Artificial local
+- ☁️ APIs e automações
+- 🎨 Interfaces modernas e responsivas
+
+---
+
+# 🛠️ Projetos em destaque
+
+## 🤖 Discord Sales Bot
+Sistema automatizado de vendas no Discord com:
+- Carrinho de compras
+- Gestão de produtos
+- Sistema de cupons
+- Integração com pagamentos
+- Logs automáticos
+- Painel administrativo
+
+---
+
+## 📱 Aplicações Mobile
+Apps utilizando:
+- React Native
+- Expo Router
+- Navegação moderna
+- Integração com APIs
+- Layout responsivo
+
+---
+
+## 🌐 Sistemas Web
+Projetos Full Stack com:
+- Frontend moderno
+- Backend escalável
+- Banco de dados MySQL
+- Autenticação de usuários
+- Controle de permissões
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌎 Contato
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Transformando ideias em experiências digitais.”
+
+</div>

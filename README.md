@@ -2,7 +2,7 @@
 
 # 👨‍💻 Carlos Soares
 
-### Desenvolvedor Full Stack • React Native • Node.js • Python
+### Desenvolvedor Full Stack • Django • Node.js • Python
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Transformando+ideias+em+código...;Criando+projetos+modernos+e+funcionais;Backend+%2B+Frontend+%2B+Automação;Sempre+aprendendo+algo+novo+🚀" />
 
@@ -12,13 +12,10 @@
 
 # 🚀 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 💻 Desenvolvedor focado em aplicações modernas e automações  
-📱 Experiência com aplicações em **React Native Expo**  
 🛠️ Desenvolvimento de APIs usando **Node.js + Sequelize + MySQL**  
-🤖 Criador de bots e sistemas automatizados para Discord  
-🎮 Interesse em tecnologia, games, IA e interfaces modernas estilo gamer/anime  
-📚 Pesquisando aplicações de Jogos e NFTs em Sistemas de Informação  
+🎮 Interesse em tecnologia, games, IA e interfaces modernas  
 
 ---
 
@@ -44,26 +41,6 @@
 
 # 🛠️ Projetos em destaque
 
-## 🤖 Discord Sales Bot
-Sistema automatizado de vendas no Discord com:
-- Carrinho de compras
-- Gestão de produtos
-- Sistema de cupons
-- Integração com pagamentos
-- Logs automáticos
-- Painel administrativo
-
----
-
-## 📱 Aplicações Mobile
-Apps utilizando:
-- React Native
-- Expo Router
-- Navegação moderna
-- Integração com APIs
-- Layout responsivo
-
----
 
 ## 🌐 Sistemas Web
 Projetos Full Stack com:
@@ -79,9 +56,9 @@ Projetos Full Stack com:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soares007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soares007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -101,11 +78,11 @@ Projetos Full Stack com:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail)](mailto:cadusoares2004@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/carlos-eduardo-376aba111/))
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/SOares007)
 
 </div>
 

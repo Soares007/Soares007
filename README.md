@@ -39,16 +39,31 @@
 
 ---
 
-# 🛠️ Projetos em destaque
+# 🛠️ Projetos em Destaque
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🛡️ Alerta Assédio
+
+Sistema corporativo de denúncias anônimas com dashboard, Kanban e notificações em tempo real.
+
+### ⚙️ Stack
+Django • WebSocket • MySQL • JavaScript
+
+[🔗 Repositório](https://github.com/Soares007/alerta-assedio)
+
+</td>
 
 
-## 🌐 Sistemas Web
-Projetos Full Stack com:
-- Frontend moderno
-- Backend escalável
-- Banco de dados MySQL
-- Autenticação de usuários
-- Controle de permissões
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -56,7 +71,7 @@ Projetos Full Stack com:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soares007&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -70,7 +85,7 @@ Projetos Full Stack com:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/carlos-eduardo-376aba111/))
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/SOares007)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/Soares007)
 
 </div>
 
